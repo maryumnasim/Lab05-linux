@@ -1,0 +1,15 @@
+total 56
+drwxr-x--- 9 maryumnasim maryumnasim 4096 Oct 16 04:25 .
+drwxr-xr-x 3 root        root        4096 Oct  6 07:17 ..
+-rw------- 1 maryumnasim maryumnasim 2377 Oct  9 18:14 .bash_history
+-rw-r--r-- 1 maryumnasim maryumnasim  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 maryumnasim maryumnasim 3771 Feb 13  2026 .bashrc
+drwx------ 2 maryumnasim maryumnasim 4096 Oct  6 07:26 .cache
+-rw-rw-r-- 1 maryumnasim maryumnasim  184 Oct 16 04:24 .gitconfig
+drwx------ 3 maryumnasim maryumnasim 4096 Oct 10 14:20 .local
+-rw-r--r-- 1 maryumnasim maryumnasim  807 Feb 13  2026 .profile
+drwx------ 2 maryumnasim maryumnasim 4096 Oct 16 04:19 .ssh
+drwxrwxr-x 3 maryumnasim maryumnasim 4096 Oct 10 04:42 Assignment01
+drwxrwxr-x 3 maryumnasim maryumnasim 4096 Oct  9 07:42 Gitea
+drwxrwxr-x 5 maryumnasim maryumnasim 4096 Oct 16 04:26 lab05-linux
+drwxrwxr-x 2 maryumnasim maryumnasim 4096 Oct 10 14:43 portfolio
